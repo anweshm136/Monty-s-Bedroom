@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monty's Bedroom", "Monty's Bedroom.csproj", "{DEBDBA79-9D3F-FAB1-653A-06C038C6A9DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monty's Bedroom.Editor", "Monty's Bedroom.Editor.csproj", "{ED1E7137-6ADC-47A5-1FC9-B4F1A76E5109}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBDBA79-9D3F-FAB1-653A-06C038C6A9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBDBA79-9D3F-FAB1-653A-06C038C6A9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBDBA79-9D3F-FAB1-653A-06C038C6A9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBDBA79-9D3F-FAB1-653A-06C038C6A9DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED1E7137-6ADC-47A5-1FC9-B4F1A76E5109}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED1E7137-6ADC-47A5-1FC9-B4F1A76E5109}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED1E7137-6ADC-47A5-1FC9-B4F1A76E5109}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED1E7137-6ADC-47A5-1FC9-B4F1A76E5109}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
